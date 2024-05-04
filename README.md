@@ -3,5 +3,8 @@
 ## Pre-requisitos para compilar la solucion
 - Docker
 - npm
+- nodejs
 - Angular CLI
-- Visual Studio 2022 version 17.8 o superior (opcional)
+- dotnet 8
+
+Este proyecto ha sido creado usando la version LTS de de npm y de nodejs
