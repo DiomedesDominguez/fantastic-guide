@@ -1,0 +1,6 @@
+@DNMOFT.PruebaTecnica.Server_HostAddress = http://localhost:5185
+
+GET {{DNMOFT.PruebaTecnica.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
